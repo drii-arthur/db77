@@ -1,0 +1,20 @@
+{
+    "data_sidney" : [
+        {"id" : 1,
+          "data":1234,
+          "tanggal":"20-22-2034"
+        }
+    ],
+    "data_singapore" : [
+        {"id" : 1,
+          "data":1234,
+          "tanggal":"20-22-2034"
+        }
+    ],
+    "data_hongkong" : [
+        {"id" : 1,
+          "data":1234,
+          "tanggal":"20-22-2034"
+        }
+    ]
+}
